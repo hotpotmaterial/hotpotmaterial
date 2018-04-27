@@ -23,3 +23,5 @@
 ## 软件快速开发平台
 
 [Hotpotmaterial Code快速开发平台](https://github.com/hotpotmaterial/code-backend)旨在为团队提供一体化的前后端代码，后端代码基于Spring Boot + Spring Security + Mybatis，前端代码基于Vue + IView
+
+![code1](./images/code1.png)
