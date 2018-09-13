@@ -30,7 +30,7 @@
 ### 运维/运营
 - 基于携程Apollo的应用动态配置平台
 - 基于Piwik的用户行为分析
-- 基于ELK的日志分析
+- 基于Filebeat + ELK的日志收集分析
 - 基于Spring Boot Admin的应用运行监控
 - 基于Pinpoint的应用性能监控
 - 基于Docker Api + Zabbix的远程监控
