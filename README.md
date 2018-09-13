@@ -13,6 +13,8 @@
 ### 软件快速开发平台
 - 前端基于Vue + IView
 - 后端基于Spring Boot + Mybatis
+- 提供前端动态菜单权限
+- 提供基于json-schema的动态表格/表单配置功能
 - 基于Swagger的API文档生成
 - 基于Spring Cloud OpenFeign的Restful风格接口声明与实现
 - 使用Spring Cloud Netflix Hystrix的熔断机制
@@ -38,6 +40,7 @@
 ## 持续改进
 
 ### 软件快速开发平台
+- 提供动态接口权限功能
 - 使用基于Activi的工作流引擎
 - 添加基于阿里HSF的集成
 ### 容器管理和自动部署
